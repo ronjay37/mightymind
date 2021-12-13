@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mightyminds/static/css/main.aeee58d1.chunk.css",
-    "main.js": "/mightyminds/static/js/main.c33eb245.chunk.js",
-    "main.js.map": "/mightyminds/static/js/main.c33eb245.chunk.js.map",
-    "runtime-main.js": "/mightyminds/static/js/runtime-main.5fcbb1bb.js",
-    "runtime-main.js.map": "/mightyminds/static/js/runtime-main.5fcbb1bb.js.map",
-    "static/js/2.3480e0d5.chunk.js": "/mightyminds/static/js/2.3480e0d5.chunk.js",
-    "static/js/2.3480e0d5.chunk.js.map": "/mightyminds/static/js/2.3480e0d5.chunk.js.map",
-    "static/js/3.c7812de9.chunk.js": "/mightyminds/static/js/3.c7812de9.chunk.js",
-    "static/js/3.c7812de9.chunk.js.map": "/mightyminds/static/js/3.c7812de9.chunk.js.map",
-    "index.html": "/mightyminds/index.html",
-    "static/css/main.aeee58d1.chunk.css.map": "/mightyminds/static/css/main.aeee58d1.chunk.css.map",
-    "static/js/2.3480e0d5.chunk.js.LICENSE.txt": "/mightyminds/static/js/2.3480e0d5.chunk.js.LICENSE.txt",
-    "static/media/BookImage.aba74b24.png": "/mightyminds/static/media/BookImage.aba74b24.png",
-    "static/media/working.a3faa901.png": "/mightyminds/static/media/working.a3faa901.png"
+    "main.css": "/mightymind/static/css/main.aeee58d1.chunk.css",
+    "main.js": "/mightymind/static/js/main.c33eb245.chunk.js",
+    "main.js.map": "/mightymind/static/js/main.c33eb245.chunk.js.map",
+    "runtime-main.js": "/mightymind/static/js/runtime-main.6ef9b4e4.js",
+    "runtime-main.js.map": "/mightymind/static/js/runtime-main.6ef9b4e4.js.map",
+    "static/js/2.3480e0d5.chunk.js": "/mightymind/static/js/2.3480e0d5.chunk.js",
+    "static/js/2.3480e0d5.chunk.js.map": "/mightymind/static/js/2.3480e0d5.chunk.js.map",
+    "static/js/3.c7812de9.chunk.js": "/mightymind/static/js/3.c7812de9.chunk.js",
+    "static/js/3.c7812de9.chunk.js.map": "/mightymind/static/js/3.c7812de9.chunk.js.map",
+    "index.html": "/mightymind/index.html",
+    "static/css/main.aeee58d1.chunk.css.map": "/mightymind/static/css/main.aeee58d1.chunk.css.map",
+    "static/js/2.3480e0d5.chunk.js.LICENSE.txt": "/mightymind/static/js/2.3480e0d5.chunk.js.LICENSE.txt",
+    "static/media/BookImage.aba74b24.png": "/mightymind/static/media/BookImage.aba74b24.png",
+    "static/media/working.a3faa901.png": "/mightymind/static/media/working.a3faa901.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fcbb1bb.js",
+    "static/js/runtime-main.6ef9b4e4.js",
     "static/js/2.3480e0d5.chunk.js",
     "static/css/main.aeee58d1.chunk.css",
     "static/js/main.c33eb245.chunk.js"
